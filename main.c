@@ -1,9 +1,13 @@
-#include "./2015/Q1/q1.c"
+// #include <stdio.h>
+// #include <stdlib.h>
+// #include <string.h>
+#include "./2015/Q2/q2.c"
 
 int qu1();
+int qu2();
 
 int main() {
-  q1();
+  q2();
 
   return 0;
 }
